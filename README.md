@@ -9,7 +9,7 @@ Name: Somana Noor
 - Ip address: 13.202.240.2
 
 ## Video Explainer:
-- [Video Explainer Link](https://link-to-your-video.com)
+- 
 
 ## Development Timeline:
 - **Week 1:** Initial setup and planning, selected WordPress as a platform.
@@ -24,9 +24,3 @@ Name: Somana Noor
   - Custom CSS
   - JavaScript
 
-
-## Challenges Faced:
-- [Mention any challenges you faced during the project, like troubleshooting or debugging]
-
-## Additional Notes:
-- [Any other details or instructions that might be helpful to your professor]
